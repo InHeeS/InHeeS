@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white">
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 *DevOps*
 
