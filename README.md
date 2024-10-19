@@ -1,9 +1,9 @@
 
 
-### Hello World 👋
+## Hello World
 
 
-## Tech Stack & Tools 😄
+### Tech Stack & Tools 
 *BackEnd*
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,19 +46,21 @@
 ![js](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Github Status 🌱
+### Github Status 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
 
-## Coding Test 🌱
+### Coding Test 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdlsgml1599)](https://solved.ac/whdlsgml1599)
 
 ([문제 풀이](https://github.com/InHeeS/CodingTest))
 
-## Certificate 🔭
+### Projects
+### Awards
+### Certificate 
 
-## ConTacts
+### ConTacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdlsgml1599@gmail.com)](mailto:whdlsgml1599@gmail.com)	
 
 
