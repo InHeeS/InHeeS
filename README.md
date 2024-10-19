@@ -1,9 +1,9 @@
 
 
-## Hello World
+## Hello World :v:
 
 
-### Tech Stack & Tools 
+### Tech Stack & Tools
 *BackEnd*
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,7 +54,6 @@
 ### Coding Test 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdlsgml1599)](https://solved.ac/whdlsgml1599)
 
-([문제 풀이](https://github.com/InHeeS/CodingTest))
 
 ### Projects
 ### Awards
