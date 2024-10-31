@@ -10,11 +10,13 @@
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 *BackEnd -Sub Skills*
 
 ![js](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white">
 
 *DevOps*
 
@@ -32,6 +34,11 @@
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 <img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apache jmeter&logoColor=white">
 
+*Monitoring*
+
+![js](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![js](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![js](https://img.shields.io/badge/zipkin-4169E1?style=for-the-badge&logo=zipkin&logoColor=white)
 
 
 *Office*
@@ -41,13 +48,10 @@
 ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![js](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-*Design*
-
-![js](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ### Github Status 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHeeS&layout=compact)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,14 +60,38 @@
 
 
 ### Projects
-### Awards
+
+<details>
+  <summary>SPRING</summary>
+
+  | Project Name | Description | Duration | Year | status | 
+  | ---- | ---- | ---- | ---- | --- |
+  | Ali Express | B2C 기반 축소 이커머스 웹 서비스 | 2주 | 2023 | 완료 |
+  | Flash Frenzy | 1000만 건의 데이터를 신속하게 검색 및 정확한 주문 처리를 제공하는 이커머스 플랫폼 서비스 | 6주 | 2023 | 완료 |
+  | 2024_CAPSTONE | CCTV 교통사고 탐지 및 응급구조 자동화 시스템 서비스  | 8주 | 2024 | 완료 |
+  | BUSINESS-AI-24 | 배달 및 포장 음식 주문 관리 플랫폼 개발 | 2주 | 2024 | 완료 |
+  | HUB AI SERVICE | 문류 관리 및 배송 시스템을 위한 MSA 기반 플랫폼 개발 | 2주 | 2024 | 완료 |
+  | Trading Trends | MSA를 기반으로 한 국내 시장 주식 코인 거래자 들을 위한 인사이트를 주는 시스템 입니다. | 5주 | 2024 | 진행중 |
+
+</details>
+
 ### Certificate 
+
+<details>
+  <summary>GET</summary>
+
+  | Category | Issuing Organization | Certificate | Issued Year |
+  | ---- | ---- | ---- | ---- |
+  | IT | Amazon Web Services (AWS) | AWS Certified Cloud Practitioner | 2024 |
+  |  | Amazon Web Services (AWS) | AWS Certified Solutions Architect - Associate | 2024 |
+  |  | 한국데이터산업진흥원 (Korea Data Agency)| SQL 개발자(SQLD) | 2024 |
+  |  | 한국산업인력공단 (Human Resources Development Service of Korea, HRD Korea) | 정보 처리 기사 | 2024 |
+
+</details>
+
 
 ### ConTacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdlsgml1599@gmail.com)](mailto:whdlsgml1599@gmail.com)	
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
 <!--
