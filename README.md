@@ -48,6 +48,8 @@
 ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![js](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+---
+
 ### Github Status 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHeeS&layout=compact)
@@ -55,9 +57,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### Coding Test 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdlsgml1599)](https://solved.ac/whdlsgml1599)
 
+---
 
 ### Projects
 
@@ -75,6 +80,8 @@
 
 </details>
 
+---
+
 ### Certificate 
 
 <details>
@@ -89,6 +96,7 @@
 
 </details>
 
+---
 
 ### ConTacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdlsgml1599@gmail.com)](mailto:whdlsgml1599@gmail.com)	
