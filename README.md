@@ -38,7 +38,6 @@
 
 ![js](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![js](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![js](https://img.shields.io/badge/zipkin-4169E1?style=for-the-badge&logo=zipkin&logoColor=white)
 
 
 *Office*
