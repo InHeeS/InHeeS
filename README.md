@@ -2,6 +2,10 @@
 
 ## Hello World :v:
 
+### Learning Summary
+[![Notion Badge](https://img.shields.io/badge/Notion-Learning%20Summary-000000?style=flat-square&logo=Notion&logoColor=white)](https://horse-giver-fbd.notion.site/Learning-Summary-1fd2ebde9ffc8073a156c1c3446db4bf?pvs=4)
+
+---
 
 ### Tech Stack & Tools
 *BackEnd*
@@ -100,7 +104,7 @@
 
 ### ConTacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdlsgml1599@gmail.com)](mailto:whdlsgml1599@gmail.com)	
-[![Notion Badge](https://img.shields.io/badge/Notion-Learning%20Summary-000000?style=flat-square&logo=Notion&logoColor=white)](https://horse-giver-fbd.notion.site/Learning-Summary-1fd2ebde9ffc8073a156c1c3446db4bf?pvs=4)
+
 
 
 <!--
