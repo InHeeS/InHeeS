@@ -53,21 +53,12 @@
 
 ---
 
-### Github Status 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHeeS&layout=compact)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHeeS)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Coding Test 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdlsgml1599)](https://solved.ac/whdlsgml1599)
 
----
 
-### Projects
+
+### Team Projects
 
 <details>
   <summary>SPRING</summary>
@@ -79,11 +70,10 @@
   | 2024_CAPSTONE | CCTV 교통사고 탐지 및 응급구조 자동화 시스템 서비스  | 8주 | 2024 | 완료 |
   | BUSINESS-AI-24 | 배달 및 포장 음식 주문 관리 플랫폼 개발 | 2주 | 2024 | 완료 |
   | HUB AI SERVICE | 문류 관리 및 배송 시스템을 위한 MSA 기반 플랫폼 개발 | 2주 | 2024 | 완료 |
-  | Trading Trends | MSA를 기반으로 한 국내 시장 주식 코인 거래자 들을 위한 인사이트를 주는 시스템 입니다. | 5주 | 2024 | 진행중 |
+  | Trading Trends | MSA를 기반으로 한 국내 시장 주식 코인 거래자 들을 위한 인사이트를 주는 시스템 입니다. | 5주 | 2024 | 완료 |
 
 </details>
 
----
 
 ### Certificate 
 
