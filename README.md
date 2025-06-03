@@ -2,7 +2,7 @@
 
 ## Profile :v:
 
-### Learning Summary
+### Learning Summary -> Click Icon
 [![Notion Badge](https://img.shields.io/badge/Notion-Learning%20Summary-000000?style=flat-square&logo=Notion&logoColor=white)](https://horse-giver-fbd.notion.site/Learning-Summary-1fd2ebde9ffc8073a156c1c3446db4bf?pvs=4)
 
 ---
