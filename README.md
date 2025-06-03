@@ -1,6 +1,6 @@
 
 
-## Hello World :v:
+## Profile :v:
 
 ### Learning Summary
 [![Notion Badge](https://img.shields.io/badge/Notion-Learning%20Summary-000000?style=flat-square&logo=Notion&logoColor=white)](https://horse-giver-fbd.notion.site/Learning-Summary-1fd2ebde9ffc8073a156c1c3446db4bf?pvs=4)
@@ -19,24 +19,23 @@
 *BackEnd -Sub Skills*
 
 ![js](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-<img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white">
-<img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white">
+<img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white">
 
 *DevOps*
 
-![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![js](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![js](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![js](https://img.shields.io/badge/docker--compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![js](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![js](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
 *Test Tool*
 
 ![js](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apache jmeter&logoColor=white">
+<img src="https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
 
 *Monitoring*
 
@@ -93,10 +92,11 @@
 
   | Category | Issuing Organization | Certificate | Issued Year |
   | ---- | ---- | ---- | ---- |
+  | IT | Amazon Web Services (AWS) | AWS Certified Developer - Associate | 2025 |
+  | IT | Amazon Web Services (AWS) | AWS Certified Solutions Architect - Associate | 2024 |
   | IT | Amazon Web Services (AWS) | AWS Certified Cloud Practitioner | 2024 |
-  |  | Amazon Web Services (AWS) | AWS Certified Solutions Architect - Associate | 2024 |
-  |  | 한국데이터산업진흥원 (Korea Data Agency)| SQL 개발자(SQLD) | 2024 |
-  |  | 한국산업인력공단 (Human Resources Development Service of Korea, HRD Korea) | 정보 처리 기사 | 2024 |
+  | IT | 한국데이터산업진흥원 (Korea Data Agency)| SQL 개발자(SQLD) | 2024 |
+  | IT | 한국산업인력공단 (Human Resources Development Service of Korea, HRD Korea) | 정보 처리 기사 | 2024 |
 
 </details>
 
